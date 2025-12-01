@@ -1,0 +1,5 @@
+paths:
+  enzyme_dat: "data/raw/enzyme.dat"
+  enzyme_parsed: "data/processed/enzyme_raw.tsv"
+  enzyme_uniprot_pairs: "data/processed/enzyme_uniprot_pairs.tsv"
+  uniprot_sequences: "data/processed/uniprot_sequences.tsv"
